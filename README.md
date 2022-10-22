@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ömer Furkan
+- 👀 I’m interested in Web technologies
+- 🌱 I’m currently learning Javascript
